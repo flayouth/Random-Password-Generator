@@ -1,2 +1,2 @@
 # Random-Password-Generator
-Password Generatoor to display my amazing JavaScript work
+Password Generator to display my amazing JavaScript work
