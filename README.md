@@ -1,5 +1,3 @@
-	<title>Random Password Generator</title>
-</head>
 <body>
 	<h1>Random Password Generator</h1>
 	<p>The Random Password Generator is a simple command-line tool that generates random passwords based on user-defined criteria, such as length, character sets, and number of passwords to generate. The tool is written in Python and uses the <code>secrets</code> module to generate cryptographically secure random values.</p>
